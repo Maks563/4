@@ -169,6 +169,7 @@ a {
 .upper-balls,
 .lower-balls {
   display: flex;
+  justify-content: space-between;
   margin: 5vw;
 }
 
@@ -426,7 +427,7 @@ footer {
   .jers-text,
   .sneak-text,
   .arrows-dots,
-.flogo{
+  .flogo {
     transform: scale(60%);
   }
 
