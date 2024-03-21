@@ -425,7 +425,8 @@ footer {
   .basket-text,
   .jers-text,
   .sneak-text,
-  .arrows-dots {
+  .arrows-dots,
+.flogo{
     transform: scale(60%);
   }
 
